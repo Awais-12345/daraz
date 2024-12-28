@@ -13,7 +13,7 @@ const inputform = () => {
               <input type="text" id="user" className="input-field" />
             </div>
             <div className="input2">
-              <label>password:</label>
+              <label>passwords:</label>
               <br></br>
               <input type="password" id="psw" className="input-field" />
             </div>
